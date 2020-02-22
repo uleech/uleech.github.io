@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "uleech"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "연구소 연구원"
   location         : "수원"
-  email            : ""
+  email            : "uleech@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:uleech@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
